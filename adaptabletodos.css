@@ -1,0 +1,12 @@
+body {
+margin: 0px;
+padding: 0px;
+background-color: #990000;
+}
+
+@media (max-width: 480px) {
+	body {
+body {
+	background-color: #3333ff;
+	}
+}
